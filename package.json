@@ -1,0 +1,14 @@
+{
+  "name": "tcombExample",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.10.1",
+    "tcomb": "^1.1.0",
+    "tcomb-form-native": "git+https://github.com/APSL/tcomb-form-native.git",
+    "tcomb-validation": "^1.0.4"
+  }
+}
